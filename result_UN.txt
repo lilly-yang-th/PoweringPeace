@@ -1,0 +1,3 @@
+input.select_role()
+ input.candidate_1_grade()
+ input.candidate_2_grade()
